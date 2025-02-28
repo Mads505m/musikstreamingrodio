@@ -1,0 +1,1 @@
+C:\Users\effer\RustroverProjects\opgave2rust\musikstreamingrodio\musikstreaming\target\debug\hello_rust.exe: C:\Users\effer\RustroverProjects\opgave2rust\musikstreamingrodio\musikstreaming\src\main.rs
